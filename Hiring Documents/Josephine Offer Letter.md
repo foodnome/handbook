@@ -45,7 +45,7 @@ Foodnome, Inc.
 
 _____________________
 
-Charley Wang
+Akshay Wang
 ```
 
 ## Acceptance

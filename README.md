@@ -14,7 +14,7 @@ All feedback and suggestions (especially in the form of pull requests) are very 
 
 If these policies sound like a place where you want to work, check out our jobs postings at [foodnome.com/about](https://foodnome.com/about).
 
-— [Charley](https://twitter.com/_charleyw)
+— [Akshay](https://twitter.com/_charleyw)
 
 CEO of Foodnome
 

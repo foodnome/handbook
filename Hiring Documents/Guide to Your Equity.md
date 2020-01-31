@@ -10,7 +10,7 @@ Owning stock in Foodnome gives you a stake in our success. As Foodnome grows and
 
 ## Stock Options
 
-At Foodnome, we give equity grants in the form of Incentive Stock Options (ISOs). It’s called an option because you have the *option* to buy Foodnome stock later at the same price it was worth when the option was granted. So if a share of Foodnome stock is worth $1 today and we grow so it’s worth $20 in a few years, you’ll still be able to buy it for $1 (and then sell it immediately for a profit of $19).
+At Foodnome, we give equity grants in the form of Incentive Stock Options (ISOs). It’s called an option because you have the _option_ to buy Foodnome stock later at the same price it was worth when the option was granted. So if a share of Foodnome stock is worth $1 today and we grow so it’s worth $20 in a few years, you’ll still be able to buy it for $1 (and then sell it immediately for a profit of $19).
 
 The reason we give stock options instead of straight stock is that it keeps you from being taxed on the stock until you actually use it.
 
@@ -30,7 +30,7 @@ A cliff is a period at the beginning of the vesting period where your equity doe
 
 When Foodnome raises money from outside investors, it needs to create new stock to sell those investors. You will own the same number of shares as you did before, but there will be more total shares of Foodnome available, so you will own a smaller percent of the company -- this is called dilution.
 
-If we get a fair valuation for the company, then the value of your options stay the same when we raise outside money because the company’s new valuation will be equal to the old value of the company + the new capital raised. For example, if Foodnome is worth $20m and we raise $5m, we are now worth $25m. If you owned 5% of $20m before, you now own 4% of $25m (we sold 20% of the company, or, said differently, diluted you by 20%). The 5% stake was worth $1m before the fundraise and the 4% stake is now worth $1m.
+If we get a fair valuation for the company, then the value of your options stay the same when we raise outside money because the company’s new valuation will be equal to the old value of the company + the new capital raised. For example, if Foodnome is worth $20m and we raise $5m, we are now worth $25m. If you owned 5% of $20m before, you now own 4% of $25m (we sold 20% of the company, or, said differently, diluted you by 20%). The 5% stake was worth $1m before the fundraise and the 4% stake is now worth \$1m.
 
 You can also be diluted as we give equity to employees. Foodnome gives stock option grants to new employees out of an option pool, or a group of options that the Foodnome board of directors creates all at once. This means that you will not be diluted each time we hire a new employee, but only when we need to create a new option pool. Foodnome’s current option pool is intended to cover the first 10 hires (after the three founders) before it needs to be refreshed. For some high-level executive hires, the board might approve stock option grants outside of the equity pool. In both cases, the hope is that employees add more value to the company than the equity they receive.
 
@@ -50,7 +50,7 @@ However, there is a very significant increase in the tax burden of exercising op
 
 ## Exercise Prices and 409a Valuations
 
-The exercise price is how much Foodnome stock was worth when you received the stock option grant. Figuring out the right number for this (one that keeps the IRS happy, but also helps make option grants valuable) is important. Investors in Foodnome get *Preferred Stock* with some special privileges (more on that below) so we don’t want to use the same valuation they paid to price your Common Stock.
+The exercise price is how much Foodnome stock was worth when you received the stock option grant. Figuring out the right number for this (one that keeps the IRS happy, but also helps make option grants valuable) is important. Investors in Foodnome get _Preferred Stock_ with some special privileges (more on that below) so we don’t want to use the same valuation they paid to price your Common Stock.
 
 The lower the exercise price for Common Stock, the more money your options will earn you, so it’s in our best interest to make this price really low. Traditionally, companies would divide the Preferred Stock price by 10 or more and use that price, but the IRS decided that was unfair, so now private companies are required to undergo something called a 409a valuation to determine the exercise price of our stock. The valuation is good for a whole year or until we raise more money. (We are currently in the process of getting our 409A Valuation)
 
@@ -58,7 +58,7 @@ The lower the exercise price for Common Stock, the more money your options will 
 
 **Tax law is complex and you should consult a tax attorney who is familiar with startup stock options before making any decisions.**
 
-With Incentive Stock Options (ISOs), you aren’t taxed when you exercise your options, and the profit you make between the exercise price and the price you sell your stock for is taxed as capital gains (much lower than income tax). *However*, because you’re not paying income tax on this gain, this money is counted as a "tax preference" towards the [Alternative Minimum Tax](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Alternative-Minimum-Tax-%28AMT%29-Assistant-for-Individuals) limit.
+With Incentive Stock Options (ISOs), you aren’t taxed when you exercise your options, and the profit you make between the exercise price and the price you sell your stock for is taxed as capital gains (much lower than income tax). _However_, because you’re not paying income tax on this gain, this money is counted as a "tax preference" towards the [Alternative Minimum Tax](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Alternative-Minimum-Tax-%28AMT%29-Assistant-for-Individuals) limit.
 
 This changes if you exercise stock less than 2 years after the grant was made because then the options are automatically treated as Non-qualified Stock Options (NSOs) instead of Incentive Stock Options (ISOs). NSOs are treated much less favorably under tax law because they can be given to people who don’t work at Foodnome. This complicates the tax law and is beyond the current scope of this document.
 
@@ -68,11 +68,11 @@ When Foodnome raises outside capital, investors will buy a form of Preferred Sto
 
 **Board seats:** A class of Preferred Stock may elect, independent of the other shareholders, a certain number of board seats. For instance, the Series A Preferred Stock holders may be able to elect one person to Foodnome’s board of directors.
 
-**Liquidation preferences:** In a liquidation event (Foodnome is sold or goes public), investors with liquidation preferences get paid back first. These favor the investor and lower the value of the stock. They usually cascade from the later rounds backwards, and can be a multiple of the money raised. For instance, if our Series A investors invested $5m with a 2x liquidation preference and Foodnome was bought, then $10m would go back to the Series A investors before anyone else got any money back. If Foodnome was sold for $10m or less, that would mean that everyone with common stock (founders and employees) would get nothing. If Foodnome sold for $15m, then $5m would be distributed among the common stockholders.
+**Liquidation preferences:** In a liquidation event (Foodnome is sold or goes public), investors with liquidation preferences get paid back first. These favor the investor and lower the value of the stock. They usually cascade from the later rounds backwards, and can be a multiple of the money raised. For instance, if our Series A investors invested $5m with a 2x liquidation preference and Foodnome was bought, then $10m would go back to the Series A investors before anyone else got any money back. If Foodnome was sold for $10m or less, that would mean that everyone with common stock (founders and employees) would get nothing. If Foodnome sold for $15m, then \$5m would be distributed among the common stockholders.
 
 ## Outstanding Convertible Notes (YC SAFE)
 
-Foodnome has raised ~$2.5m to date, all as convertible notes.
+Foodnome has raised ~\$2.5m to date, all as convertible notes.
 
 A convertible note is a popular way for startups to raise money because it lets us delay picking a valuation for a company. We have used the YC SAFE agreement for convertible equity. So instead of selling equity for a fixed price, we essentially sell a future stake in the company and agree on a cap, or maximum valuation that these early investors will have to pay for the stock. Then, next time we raise money, that SAFE notes convert into equity at whichever is lower, the valuation of that round of financing or the valuation cap.
 
@@ -84,4 +84,4 @@ $175,000 was raised on notes with a cap of $5m
 
 ~$2,000,000 was raised on notes with a cap of $10m
 
-Anyone is always welcome to ask Charley or Matt any questions they have about their options, Foodnome’s fundraising, or anything else related to equity at Foodnome. However, everyone should also consult a lawyer before making important financial decisions, especially regarding their equity because there are complex legal and tax requirements that may apply.
+Anyone is always welcome to ask Akshay or Matt any questions they have about their options, Foodnome’s fundraising, or anything else related to equity at Foodnome. However, everyone should also consult a lawyer before making important financial decisions, especially regarding their equity because there are complex legal and tax requirements that may apply.
