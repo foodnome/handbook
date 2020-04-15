@@ -1,6 +1,6 @@
 # Our Handbook
 
-Well we did not write any of this! All credits go to Josephine.
+We did not write this entire handbook ourselves, most were previouly done by Josephine.
 
 If these policies sound like a place where you want to work, check out our jobs postings at [foodnome.com/about](https://foodnome.com/about).
 
