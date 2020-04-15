@@ -24,7 +24,7 @@ Signature: ________________________
 
 ## Contents of the Foodnome Employee Handbook
 
-This handbook is hosted online at [github.com/foodnome/handbook](https://github.com/handbook), along with several other policies. The _Josephine Employee Handbook_ consists of only the policies listed below.
+This handbook is hosted online at [github.com/foodnome/handbook](https://github.com/handbook), along with several other policies. The _Foodnome Employee Handbook_ consists of only the policies listed below.
 
 ### Introduction
 

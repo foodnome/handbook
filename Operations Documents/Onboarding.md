@@ -1,6 +1,6 @@
 # Onboarding
 
-This document is about the general priorities and policies for how we as a company bring new employees onto the team. As a new person on the team, if you have questions about starting at Foodnome, check out [Your First Day at Foodnome](https://github.com/foodnome/handbook/blob/master/Onboarding%20Documents/Welcome%20to%20Josephine.md).
+This document is about the general priorities and policies for how we as a company bring new employees onto the team. As a new person on the team, if you have questions about starting at Foodnome, check out [Your First Day at Foodnome](https://github.com/foodnome/handbook/blob/master/Onboarding%20Documents/Welcome%20to%20Foodnome.md).
 
 We may also create specific onboarding recommendations for different roles in the future.
 

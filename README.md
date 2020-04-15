@@ -36,7 +36,7 @@ CEO of Foodnome
 
 ## Onboarding Documents
 
-- [Welcome to Foodnome](https://github.com/foodnome/handbook/blob/master/Onboarding%20Documents/Welcome%20to%20Josephine.md)
+- [Welcome to Foodnome](https://github.com/foodnome/handbook/blob/master/Onboarding%20Documents/Welcome%20to%20Foodnome.md)
 - [Direct Reports](https://github.com/foodnome/handbook/blob/master/Onboarding%20Documents/Direct%20Reports.md)
 - [Internal Transparency](https://github.com/foodnome/handbook/blob/master/Onboarding%20Documents/Internal%20Transparency.md)
 - [Objectives and Key Results](https://github.com/foodnome/handbook/blob/master/Onboarding%20Documents/Objectives%20and%20Key%20Results.md)
